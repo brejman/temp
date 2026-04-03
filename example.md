@@ -1,3 +1,2 @@
 foo
-baz
-foo
+bar
